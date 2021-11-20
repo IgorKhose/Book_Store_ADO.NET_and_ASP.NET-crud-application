@@ -1,0 +1,15 @@
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\BookStoreCodeFirstFromDB.dll.config
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\BookStoreCodeFirstFromDB.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\BookStoreCodeFirstFromDB.pdb
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EFControllerUtilities.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EntityFramework.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EntityFramework.xml
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\obj\Debug\BookStoreCodeFirstFromDB.csproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\obj\Debug\BookStoreCodeFirstFromDB.csproj.CoreCompileInputs.cache
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\obj\Debug\BookStoreCodeFirstFromDB.csproj.CopyComplete
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\obj\Debug\BookStoreCodeFirstFromDB.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStoreCodeFirstFromDB\obj\Debug\BookStoreCodeFirstFromDB.pdb

@@ -1,0 +1,6 @@
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\bin\Debug\BookStore.dacpac
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\bin\Debug\BookStore.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\obj\Debug\BookStore.sqlproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Irishka\Desktop\CSIS-4050-001(Advanced OO Prog for Bus App)\PracticeApps\BookStoreProject\BookStore\BookStore\obj\Debug\BookStore.pdb
